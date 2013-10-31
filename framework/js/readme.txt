@@ -1,0 +1,1 @@
+Place your theme repeatable sjs files in this directory.
