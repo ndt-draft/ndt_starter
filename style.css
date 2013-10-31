@@ -535,28 +535,6 @@ a:active {
 }
 /* 3.0 - Basic Structure
 ----------------------------------------------- */
-.site {
-  max-width: 1008px;
-  margin: 1.5em auto;
-  padding: 0 1.5em;
-}
-.content-area {
-  float: left;
-  margin: 0 -25% 0 0;
-  width: 100%;
-}
-.site-main {
-  margin: 0 25% 0 0;
-}
-.site-content .widget-area {
-  float: right;
-  overflow: hidden;
-  width: 25%;
-}
-.site-footer {
-  clear: both;
-  width: 100%;
-}
 /* 4.0 - Header
 ----------------------------------------------- */
 .site-header {
